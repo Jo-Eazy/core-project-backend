@@ -1,7 +1,7 @@
 # ModernTech — HR: Attendance, Payroll & Time-Off Backend (PHP + JSON + "MAYBE" MySQL seeds)
 
 Lightweight PHP backend and admin pages for a small HR system (employees, attendance, leave requests, payroll calculator).  
-This repository stores runtime data as JSON files (in `data/`) and includes SQL scripts to create a MySQL database copy of the same dummy data. There is NO authentication in this version — intended for local development and demos only.
+This repository stores runtime data as JSON files (in `data/`) and includes "MAYBE" SQL scripts to create a MySQL database copy of the same dummy data. There is NO authentication — intended for local development and demos only, due to there being no authentication.
 
 Contents
 - PHP pages (UI + server-side handlers): index.php, dashboard.php, employees.php, attendance.php, timeoff.php, payroll.php
