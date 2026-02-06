@@ -12,4 +12,3 @@ Contents
 - "MAYBE" SQL for MySQL Workbench: `schema_workbench.sql`, `seed_workbench.sql`, `verify_workbench.sql` (safe to re-run)
 - Test: `test_rw.php` (verifies write permissions)
 - Frontend assets: `css/style.css`, `js/app.js`
-- 
