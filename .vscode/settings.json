@@ -1,0 +1,7 @@
+{
+  "php.validate.executablePath": "/usr/bin/php",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true
+  }
+}

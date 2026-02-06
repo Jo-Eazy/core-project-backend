@@ -1,0 +1,61 @@
+/* css/style.css (based on the original body.css) */
+body{
+  font-family: Arial;
+  background:#f4f6fb;
+  margin:0;
+}
+
+nav{
+  background:#1f2933;
+  padding:12px;
+}
+
+nav a{
+  color:white;
+  margin-right:15px;
+  text-decoration:none;
+}
+
+.container{
+  padding:30px;
+}
+
+.login-container{
+  width:300px;
+  margin:120px auto;
+  background:white;
+  padding:30px;
+  border-radius:10px;
+  box-shadow:0 0 10px #ccc;
+  text-align:center;
+}
+
+input,select,button{
+  width:100%;
+  padding:10px;
+  margin:8px 0;
+}
+
+button{
+  background:#2563eb;
+  color:white;
+  border:none;
+  border-radius:5px;
+  cursor:pointer;
+}
+
+.cards{
+  display:flex;
+  gap:20px;
+}
+
+.card{
+  background:white;
+  padding:30px;
+  flex:1;
+  border-radius:10px;
+  box-shadow:0 0 5px #ccc;
+  text-align:center;
+  font-size:18px;
+}
+
